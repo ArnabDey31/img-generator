@@ -9,9 +9,16 @@ A MERN‑stack application powered by **Gemini 2.0** for AI-driven image genera
 - **AI Image Generation**: Seamlessly create images using Gemini 2.0’s API.
 - **Community Feed**: Users can view AI generated images posted by others.
 - **Share to Community**: Support for posting AI-generated images.
+- **Download and view details**: User can hover over the image to view the prompt and user who posted it. They can also download using the download button.
+- **Search Community Posts**: Support for search AI-generated images.
 - **Responsive Design**: Mobile-first UI with React, styled-components, or CSS frameworks.
 
 ---
+
+![Community Page](./assets/community_page.png) <!-- Replace -->
+![Community Feed](./assets/community_posts.png) <!-- Replace -->
+![Generate UI](./assets/img_generation.png) <!-- Replace -->
+![Generate UI](./assets/share_generated_img.png) <!-- Replace -->
 
 ## 🧱 Tech Stack
 
